@@ -11,7 +11,7 @@
 # **************************************************************************** #
 
 # edit this to your get_next_line folder
-GET_NEXT_LINE_FOLDER = ~/42cursus/Get_Next_Line/get_next_line_gh/
+GET_NEXT_LINE_FOLDER = /home/bruno/bvidigal/GNL/get_next_line
 
 # dont touch this plz
 TESTS = 1 2 5 6 20 25 1024 5000 10000000
